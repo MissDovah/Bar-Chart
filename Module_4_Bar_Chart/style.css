@@ -1,0 +1,15 @@
+.bar {
+	fill: red;
+}
+
+.bar:hover {
+	fill: blue;
+}
+
+#container{
+	position: relative;
+}
+
+#tooltip {
+	position: absolute;
+}
